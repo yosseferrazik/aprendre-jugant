@@ -6,14 +6,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <iframe
-        src="https://www.edu365.cat/workshop/joc/lletres/index.html"
-        width="100%"
-        height="100%"
-        frameBorder="0"
-        allowFullScreen
-        title="Edu365 Game"
-      ></iframe>
+      <a href="https://clic.xtec.cat/projects/setmes2/jclic.js/index.html"></a>
     </>
   );
 }
